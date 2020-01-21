@@ -20,7 +20,7 @@ for (let i=0; i < dashedClassReference.length; i++) {
 const classArticleFooter = document.querySelector(".article__footer")
 console.log(classArticleFooter)
 
-classArticleFooter.classList.add(".goldenrod")
+classArticleFooter.classList.add("goldenrod")
 // console.log(classList(dashedClassReference))
 
 
